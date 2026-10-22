@@ -1,0 +1,11 @@
+{
+  "model": "Logistic Regression",
+  "validation": {
+    "roc_auc": 0.7327156697515825,
+    "average_precision": 0.20544659017846328,
+    "brier_score": 0.06955389527335488,
+    "log_loss": 0.2536322067996226
+  },
+  "validation_target_rate": 0.08072908198107379,
+  "data_split": "stratified random 60/20/20"
+}
